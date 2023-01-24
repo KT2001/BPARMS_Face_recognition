@@ -1,4 +1,4 @@
-tensorflow==2.9.2
+tensorflow == 2.9.2
 numpy == 2.9.2
 keras == 2.9.0
 mtcnn == 0.1.0
