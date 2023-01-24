@@ -1,10 +1,10 @@
 # Import tensorflow dependencies - Functional API
+import tensorflow as tf
+from tensorflow import keras
 from keras.models import Model, load_model
 from keras.models import load_model
 from tensorflow.keras import layers
 from tensorflow.keras.layers import Layer, Conv2D, Dense, MaxPooling2D, Input, Flatten
-import tensorflow as tf
-from tensorflow import keras
 
 # visulizations
 import matplotlib.pyplot as plt
